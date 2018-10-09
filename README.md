@@ -1,4 +1,4 @@
-# M14_genome_analyses
+# M14 genome analyses
 
 diCenzo GC, Debiec K, Krzysztoforski J, Uhrynowski W, Mengoni A, Fagorzi C, Gorecki A, Dziewit L, Bajda T, Rzepa G, Drewniak L. (2018) Genomic and biotechnological characterization of the heavy-metal resistant, arsenic-oxidizing bacterium Ensifer sp. M14. Genes. 9(8): 379. 
 
